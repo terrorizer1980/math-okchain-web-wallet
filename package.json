@@ -16,7 +16,7 @@
     "bitcoinjs-lib": "^5.1.10",
     "bootstrap": "^4.3.1",
     "bs58": "^4.0.1",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.2.0",
     "jquery": "^3.4.1",
     "md5": "^2.2.1",
     "popper.js": "^1.15.0",
