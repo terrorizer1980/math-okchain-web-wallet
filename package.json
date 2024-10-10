@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
-    "bitcoinjs-lib": "^5.1.10",
+    "bitcoinjs-lib": "^6.0.0",
     "bootstrap": "^4.3.1",
     "bs58": "^4.0.1",
     "crypto-js": "^3.1.9-1",
